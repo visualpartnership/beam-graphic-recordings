@@ -2,6 +2,8 @@
 
 Graphic recordings of the EMPEX conf 2023.
 
+> A graphic recording 🎆, also known as a visual recording or graphic facilitation, is a process of creating visual representations of live conversations, presentations, or events. The graphic recording captures the key points, themes, and ideas in a creative and engaging way, using a combination of text and imagery.
+
 |About|
 |:---:|
 |🎨 Author: @carlogilmar|
