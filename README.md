@@ -1,10 +1,12 @@
-# EMPEX Conf NYC 2023
+# 🚀 EMPEX Conf NYC 2023
 
 Graphic recordings of the EMPEX conf 2023.
 
 |About|
 |:---:|
-|Author: @carlogilmar|
+|🎨 Author: @carlogilmar|
+
+👉 Check the graphic recordings of the [EMPEX Conf MTN 2022](./2022.md)
 
 <table width="100%">
   <tr>
