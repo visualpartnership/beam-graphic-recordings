@@ -46,6 +46,16 @@ Graphic recordings of the EMPEX conf 2023.
       <img src="https://github.com/visualpartnership/empexconf/assets/17634377/fe34fad8-d63f-4596-88ae-d824fb514e20">
     </td>
   </tr>
+
+   
+  <tr>
+    <td width="50%">
+      <img src="https://user-images.githubusercontent.com/17634377/245887646-52f483d4-40a0-41e2-b1c2-f811a9fde17d.png">
+    </td>
+    <td width="50%">
+      <img src="https://user-images.githubusercontent.com/17634377/245887649-20b1610b-e6d3-4b97-900a-235de7fd0af6.png">
+    </td>
+  </tr>
   
 </table>
 
